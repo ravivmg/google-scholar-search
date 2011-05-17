@@ -1,6 +1,13 @@
 Fixed up Yusdi Santoso's original python recipe for getting Google Scholar data.
 
 ==================
+PERQUISITES
+==================
+
+* BeautifulSoup
+
+
+==================
 USAGE
 ==================
 
